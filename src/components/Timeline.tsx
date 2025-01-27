@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 const timelineItems = [
   {
     year: "Present",
-    title: "BYU-Idaho",
-    description: "Pursuing Software Development major",
+    title: "BYU-Idaho & KCA University",
+    description: "Pursuing Software Development major at BYU-Idaho and Applied Computing degree at KCA University",
   },
   {
     year: "2021-2023",
@@ -14,7 +14,7 @@ const timelineItems = [
   {
     year: "2020",
     title: "High School Diploma",
-    description: "Scored 60 points in Kenya's KCSE system",
+    description: "Scored 75 points in Kenya's KCSE system",
   },
 ];
 

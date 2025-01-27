@@ -29,7 +29,9 @@ const Contact = () => {
               <span>millenmorn23@gmail.com</span>
             </a>
             <a
-              href="#"
+              href="http://www.linkedin.com/in/millen-morn-4ab8681a2"
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 hover:text-accent transition-colors"
             >
               <Linkedin className="w-5 h-5" />
