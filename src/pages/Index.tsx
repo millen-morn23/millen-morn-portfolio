@@ -5,6 +5,7 @@ import Skills from "../components/Skills";
 import Projects from "../components/Projects";
 import Timeline from "../components/Timeline";
 import Contact from "../components/Contact";
+import MatrixRain from "../components/MatrixRain";
 
 const Index = () => {
   useEffect(() => {
@@ -23,7 +24,8 @@ const Index = () => {
   }, []);
 
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background relative overflow-hidden">
+      <MatrixRain />
       <Hero />
       <About />
       <Skills />
