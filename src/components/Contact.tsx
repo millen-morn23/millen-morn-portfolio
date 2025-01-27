@@ -22,11 +22,11 @@ const Contact = () => {
               <span>+254 740 724 265</span>
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:millenmorn23@gmail.com"
               className="flex items-center justify-center gap-2 hover:text-accent transition-colors"
             >
               <Mail className="w-5 h-5" />
-              <span>your.email@example.com</span>
+              <span>millenmorn23@gmail.com</span>
             </a>
             <a
               href="#"
