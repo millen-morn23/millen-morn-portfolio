@@ -1,3 +1,4 @@
+
 import { motion } from "framer-motion";
 
 const timelineItems = [
@@ -7,7 +8,7 @@ const timelineItems = [
     description: "Pursuing Software Development major at BYU-Idaho and Applied Computing degree at KCA University",
   },
   {
-    year: "2021-2023",
+    year: "2022-2024",
     title: "Missionary Service",
     description: "Kenya Nairobi East Mission - District Leader, Trainer, and Office Elder",
   },
